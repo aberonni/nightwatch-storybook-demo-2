@@ -48,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@nightwatch/storybook": "^0.1.7",
     "@storybook/addon-actions": "^6.5.13",
     "@storybook/addon-essentials": "^6.5.13",
     "@storybook/addon-interactions": "^6.5.13",
